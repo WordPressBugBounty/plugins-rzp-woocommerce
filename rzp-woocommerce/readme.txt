@@ -2,7 +2,7 @@
 Contributors: knitpay, gautammkgarg, infosatech
 Tags: razorpay, qrcode, upi, woocommerce, payments,
 Requires at least: 4.6
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 2.1.2
 Requires PHP: 7.2
 License: GPLv3
